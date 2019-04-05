@@ -1,0 +1,18 @@
+name: randy
+version: 0.1.0
+
+authors:
+  - Ian Rash <redcodefinal@gmail.com>
+
+targets:
+  randy:
+    main: src/main.cr
+
+dependencies:
+  crystagiri:
+    github: madeindjs/crystagiri
+    branch: master
+
+crystal: 0.27.2
+
+license: MIT

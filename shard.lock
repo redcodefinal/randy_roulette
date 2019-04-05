@@ -1,0 +1,6 @@
+version: 1.0
+shards:
+  crystagiri:
+    github: madeindjs/crystagiri
+    commit: 710d12464500f51f61ae87ee2ecad045fe69ea22
+
